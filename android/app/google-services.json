@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "713697856265",
+    "project_id": "lets-com",
+    "storage_bucket": "lets-com.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713697856265:android:e0d3fea7dc5cc72faa61d8",
+        "android_client_info": {
+          "package_name": "com.example.let_com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713697856265-9brspe9f3m9mjaj7ck8lrlmpvgarur6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZaq96TyS50GhYuAxn8_i9Xm5CByZuamk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713697856265-9brspe9f3m9mjaj7ck8lrlmpvgarur6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
